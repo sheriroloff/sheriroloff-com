@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sheriroloff.github.io/sheriroloff-com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sheriroloff.github.io/sheriroloff-com/</loc>
+</url>
+<url>
+<loc>https://sheriroloff.github.io/sheriroloff-com/books.html</loc>
+<lastmod>2026-08-10T16:32:36-05:00</lastmod>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/1/A-Forest-Inside_Softcover_Square-product-image.jpg</image:loc>
+<image:title><![CDATA[A Forest Inside by Sheri Roloff]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/1/Stardust_Front-Cover_Snow-Background.jpg</image:loc>
+<image:title><![CDATA[Stardust by Sheri Roloff book cover]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/1/2022-07-02-13.59.44-1.jpg</image:loc>
+<image:title><![CDATA[You Are With Me Always by Sheri Roloff book cover]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/1/Stink-Bug_Product-Pic_Cover.jpg</image:loc>
+<image:title><![CDATA[Stink Bugs Zine by Sheri Roloff]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/1/Hide-and-Go-Seek-A-Saurus_Picture-Book_hero-image.jpg</image:loc>
+<image:title><![CDATA[Hide &amp; Go Seek-A-Saurus Picture Book by Sheri Roloff]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/1/Hide-and-Go-Seek-A-Saurus_Coloring-Book_hero-image.jpg</image:loc>
+<image:title><![CDATA[Hide &amp; Go Seek-A-Saurus The Coloring Book by Sheri Roloff]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sheriroloff.github.io/sheriroloff-com/illustration.html</loc>
+<lastmod>2026-07-02T20:15:10-05:00</lastmod>
+</url>
+<url>
+<loc>https://sheriroloff.github.io/sheriroloff-com/music.html</loc>
+<lastmod>2026-08-15T17:58:03-05:00</lastmod>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/2/Sheri-Roloff-Promo-Pic_1280x720.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/2/Hey-Tiger_Video-Thumbnails_NEW.jpg</image:loc>
+<image:title><![CDATA[Hey Tiger band photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/2/Smoke_and_Mirrors_Cover-Only_1000px.jpg</image:loc>
+<image:title><![CDATA[Bring Us the Stars Smoke and Mirrors album cover]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/2/Mercury-Crossing-The-Takeover-Album-Cover.jpg</image:loc>
+<image:title><![CDATA[Mercury Crossing The Takeover album cover]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sheriroloff.github.io/sheriroloff-com/testing-out-this-post-dealio.html</loc>
+<lastmod>2026-07-02T20:13:14-05:00</lastmod>
+<image:image>
+<image:loc>https://sheriroloff.github.io/sheriroloff-com/media/posts/4/new-portait-for-insta.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

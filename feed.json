@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sheri Roloff",
+    "description": "",
+    "home_page_url": "https://sheriroloff.github.io/sheriroloff-com",
+    "feed_url": "https://sheriroloff.github.io/sheriroloff-com/feed.json",
+    "user_comment": "",
+    "icon": "https://sheriroloff.github.io/sheriroloff-com/media/website/Sheri-Name-Logo_for-Publii-Header.webp",
+    "author": {
+        "name": "Sheri Roloff"
+    },
+    "items": [
+        {
+            "id": "https://sheriroloff.github.io/sheriroloff-com/testing-out-this-post-dealio.html",
+            "url": "https://sheriroloff.github.io/sheriroloff-com/testing-out-this-post-dealio.html",
+            "title": "Testing out this post dealio",
+            "summary": "Where do posts go and what do they look like? These are the questions I have.",
+            "content_html": "<p>Where do posts go and what do they look like? These are the questions I have.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sheriroloff.github.io/sheriroloff-com/media/posts/4/new-portait-for-insta.jpg\" alt=\"\" width=\"2550\" height=\"3300\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-xs.jpg 300w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-sm.jpg 480w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-md.jpg 768w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-lg.jpg 1024w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-xl.jpg 1360w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Sheri Roloff"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-02T20:13:14-05:00",
+            "date_modified": "2026-07-02T20:13:14-05:00"
+        }
+    ]
+}

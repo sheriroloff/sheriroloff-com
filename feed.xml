@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sheri Roloff</title>
+    <link href="https://sheriroloff.github.io/sheriroloff-com/feed.xml" rel="self" />
+    <link href="https://sheriroloff.github.io/sheriroloff-com" />
+    <updated>2026-07-02T20:13:14-05:00</updated>
+    <author>
+        <name>Sheri Roloff</name>
+    </author>
+    <id>https://sheriroloff.github.io/sheriroloff-com</id>
+
+    <entry>
+        <title>Testing out this post dealio</title>
+        <author>
+            <name>Sheri Roloff</name>
+        </author>
+        <link href="https://sheriroloff.github.io/sheriroloff-com/testing-out-this-post-dealio.html"/>
+        <id>https://sheriroloff.github.io/sheriroloff-com/testing-out-this-post-dealio.html</id>
+
+        <updated>2026-07-02T20:13:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Where do posts go and what do they look like? These are the questions I have.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Where do posts go and what do they look like? These are the questions I have.</p>
+<figure class="post__image"><img loading="lazy"  src="https://sheriroloff.github.io/sheriroloff-com/media/posts/4/new-portait-for-insta.jpg" alt="" width="2550" height="3300" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-xs.jpg 300w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-sm.jpg 480w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-md.jpg 768w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-lg.jpg 1024w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-xl.jpg 1360w ,https://sheriroloff.github.io/sheriroloff-com/media/posts/4/responsive/new-portait-for-insta-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

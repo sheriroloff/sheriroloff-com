@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sheriroloff.github.io/sheriroloff-com/sitemap.xml
